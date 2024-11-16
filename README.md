@@ -1,5 +1,5 @@
 # Tools-Agents
-## By using different data soources like:
+## By using different data soources like below we can perform querries with data
 ``` bash
 Tools
 
