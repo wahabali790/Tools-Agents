@@ -1,6 +1,6 @@
 # Tools-Agents
 ## By using different data soources like:
-""" bash
+``` bash
 Tools
 
 Alpha Vantage
@@ -71,4 +71,4 @@ Wolfram Alpha
 Yahoo Finance News
 You.com Search
 YouTube
-Zapier Natural Language Actions"""
+Zapier Natural Language Actions```
